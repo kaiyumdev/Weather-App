@@ -3,11 +3,11 @@
   padding: 0;
   box-sizing: border-box;
   color: rgb(7, 1, 1);
-  /* background: rgb(7, 200, 243); */
+  background: rgb(7, 200, 243);
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 #full-body{
-  background-image: url(./bg1.jpg);
+  /* background-image: url(./bg1.jpg); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
